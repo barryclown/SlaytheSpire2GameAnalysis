@@ -4,4 +4,4 @@
 
 体现系统拆解、平衡思维与设计复盘能力。
 
-📄 **[SlayTheSpire2_GameAnalysis.pdf](SlayTheSpire2_GameAnalysis.pdf)**（15 页）
+📄 **[SlayTheSpire2_GameAnalysis.pdf](SlayTheSpire2_GameAnalysis.pdf)**（13 页）
